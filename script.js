@@ -16,7 +16,7 @@ const subtractHandler = () => {
     } 
 
     if (add.disabled === true) {
-        add.disabled = false
+        add.disabled = false 
     }
 }
  
